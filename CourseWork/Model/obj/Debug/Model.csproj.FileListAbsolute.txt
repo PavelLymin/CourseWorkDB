@@ -1,0 +1,6 @@
+C:\Users\Павел\Desktop\ИСИТ СА БД\Базы данных\CourseWork\Model\bin\Debug\Model.dll
+C:\Users\Павел\Desktop\ИСИТ СА БД\Базы данных\CourseWork\Model\bin\Debug\Model.pdb
+C:\Users\Павел\Desktop\ИСИТ СА БД\Базы данных\CourseWork\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\Users\Павел\Desktop\ИСИТ СА БД\Базы данных\CourseWork\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\Павел\Desktop\ИСИТ СА БД\Базы данных\CourseWork\Model\obj\Debug\Model.dll
+C:\Users\Павел\Desktop\ИСИТ СА БД\Базы данных\CourseWork\Model\obj\Debug\Model.pdb

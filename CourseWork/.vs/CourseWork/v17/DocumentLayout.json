@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\\u0418\u0421\u0418\u0422 \u0421\u0410 \u0411\u0414\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\CourseWork\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA397491-C359-4C23-B930-FB3B9194851D}|BusinessLogic\\BusinessLogic.csproj|C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\\u0418\u0421\u0418\u0422 \u0421\u0410 \u0411\u0414\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\CourseWork\\businesslogic\\logic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA397491-C359-4C23-B930-FB3B9194851D}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\logic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA397491-C359-4C23-B930-FB3B9194851D}|BusinessLogic\\BusinessLogic.csproj|C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\\u0418\u0421\u0418\u0422 \u0421\u0410 \u0411\u0414\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\CourseWork\\businesslogic\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA397491-C359-4C23-B930-FB3B9194851D}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA397491-C359-4C23-B930-FB3B9194851D}|BusinessLogic\\BusinessLogic.csproj|C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\\u0418\u0421\u0418\u0422 \u0421\u0410 \u0411\u0414\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\CourseWork\\businesslogic\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA397491-C359-4C23-B930-FB3B9194851D}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA397491-C359-4C23-B930-FB3B9194851D}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\\u043F\u0430\u0432\u0435\u043B\\desktop\\\u0438\u0441\u0438\u0442 \u0441\u0430 \u0431\u0434\\\u0431\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\coursework\\businesslogic\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA397491-C359-4C23-B930-FB3B9194851D}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47465E46-BAA3-4155-BDBC-541AA59BB1DC}|DataAccess\\DataAccess.csproj|c:\\users\\\u043F\u0430\u0432\u0435\u043B\\desktop\\\u0438\u0441\u0438\u0442 \u0441\u0430 \u0431\u0434\\\u0431\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\coursework\\dataaccess\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47465E46-BAA3-4155-BDBC-541AA59BB1DC}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\\u0418\u0421\u0418\u0422 \u0421\u0410 \u0411\u0414\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\CourseWork\\DataAccess\\IRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\IRepository.cs",
+              "ToolTip": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\\u0418\u0421\u0418\u0422 \u0421\u0410 \u0411\u0414\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\CourseWork\\DataAccess\\IRepository.cs",
+              "RelativeToolTip": "DataAccess\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T04:59:01.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\\u0418\u0421\u0418\u0422 \u0421\u0410 \u0411\u0414\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\CourseWork\\BusinessLogic\\AuthService.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\AuthService.cs",
+              "ToolTip": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\\u0418\u0421\u0418\u0422 \u0421\u0410 \u0411\u0414\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\CourseWork\\BusinessLogic\\AuthService.cs",
+              "RelativeToolTip": "BusinessLogic\\AuthService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T03:31:52.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\\u0418\u0421\u0418\u0422 \u0421\u0410 \u0411\u0414\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\CourseWork\\BusinessLogic\\OrderService.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\OrderService.cs",
+              "ToolTip": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\\u0418\u0421\u0418\u0422 \u0421\u0410 \u0411\u0414\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\CourseWork\\BusinessLogic\\OrderService.cs",
+              "RelativeToolTip": "BusinessLogic\\OrderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T03:31:48.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CartService.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\\u0418\u0421\u0418\u0422 \u0421\u0410 \u0411\u0414\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\CourseWork\\BusinessLogic\\CartService.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\CartService.cs",
+              "ToolTip": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\\u0418\u0421\u0418\u0422 \u0421\u0410 \u0411\u0414\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\CourseWork\\BusinessLogic\\CartService.cs",
+              "RelativeToolTip": "BusinessLogic\\CartService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T03:31:30.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Logic.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\\u0418\u0421\u0418\u0422 \u0421\u0410 \u0411\u0414\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\CourseWork\\BusinessLogic\\Logic.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\Logic.cs",
+              "ToolTip": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\\u0418\u0421\u0418\u0422 \u0421\u0410 \u0411\u0414\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\CourseWork\\BusinessLogic\\Logic.cs",
+              "RelativeToolTip": "BusinessLogic\\Logic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T03:28:07.289Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
