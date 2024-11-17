@@ -34,11 +34,11 @@
             this.Название = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.Бренд = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.Наличие = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
-            this.columnHeader1 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
-            this.columnHeader2 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
+            this.Количествоа = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.button1 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
             this.numericUpDown1 = new System.Windows.Forms.NumericUpDown();
+            this.Цена = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -50,8 +50,8 @@
             this.Название,
             this.Бренд,
             this.Наличие,
-            this.columnHeader1,
-            this.columnHeader2});
+            this.Количествоа,
+            this.Цена});
             this.listView1.FullRowSelect = true;
             this.listView1.GridLines = true;
             this.listView1.HideSelection = false;
@@ -85,16 +85,12 @@
             // Наличие
             // 
             this.Наличие.Text = "Наличие";
-            this.Наличие.Width = 150;
+            this.Наличие.Width = 0;
             // 
-            // columnHeader1
+            // Количествоа
             // 
-            this.columnHeader1.Text = "Количество";
-            this.columnHeader1.Width = 0;
-            // 
-            // columnHeader2
-            // 
-            this.columnHeader2.Text = "Цена";
+            this.Количествоа.Text = "Количество";
+            this.Количествоа.Width = 100;
             // 
             // button1
             // 
@@ -133,6 +129,11 @@
             0,
             0});
             // 
+            // Цена
+            // 
+            this.Цена.Text = "Цена";
+            this.Цена.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
             // Store
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -160,7 +161,7 @@
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.NumericUpDown numericUpDown1;
         private System.Windows.Forms.ColumnHeader Наличие;
-        private System.Windows.Forms.ColumnHeader columnHeader1;
-        private System.Windows.Forms.ColumnHeader columnHeader2;
+        private System.Windows.Forms.ColumnHeader Количествоа;
+        private System.Windows.Forms.ColumnHeader Цена;
     }
 }

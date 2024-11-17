@@ -1,26 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\\u0418\u0421\u0418\u0422 \u0421\u0410 \u0411\u0414\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\CourseWork\\",
+  "WorkspaceRootPath": "C:\\Users\\Pavel\\Desktop\\\u0418\u0421\u0418\u0422 \u0421\u0410 \u0411\u0414\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\CourseWork\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BA397491-C359-4C23-B930-FB3B9194851D}|BusinessLogic\\BusinessLogic.csproj|C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\\u0418\u0421\u0418\u0422 \u0421\u0410 \u0411\u0414\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\CourseWork\\businesslogic\\logic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA397491-C359-4C23-B930-FB3B9194851D}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\logic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{47465E46-BAA3-4155-BDBC-541AA59BB1DC}|DataAccess\\DataAccess.csproj|c:\\users\\pavel\\desktop\\\u0438\u0441\u0438\u0442 \u0441\u0430 \u0431\u0434\\\u0431\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\coursework\\dataaccess\\oledbaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47465E46-BAA3-4155-BDBC-541AA59BB1DC}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\oledbaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA397491-C359-4C23-B930-FB3B9194851D}|BusinessLogic\\BusinessLogic.csproj|C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\\u0418\u0421\u0418\u0422 \u0421\u0410 \u0411\u0414\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\CourseWork\\businesslogic\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BA397491-C359-4C23-B930-FB3B9194851D}|BusinessLogic\\BusinessLogic.csproj|C:\\Users\\Pavel\\Desktop\\\u0418\u0421\u0418\u0422 \u0421\u0410 \u0411\u0414\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\CourseWork\\businesslogic\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BA397491-C359-4C23-B930-FB3B9194851D}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA397491-C359-4C23-B930-FB3B9194851D}|BusinessLogic\\BusinessLogic.csproj|C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\\u0418\u0421\u0418\u0422 \u0421\u0410 \u0411\u0414\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\CourseWork\\businesslogic\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA397491-C359-4C23-B930-FB3B9194851D}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{59BDD2E8-2061-47EB-BC8F-698402E85346}|ViewPharmacy\\ViewPharmacy.csproj|C:\\Users\\Pavel\\Desktop\\\u0418\u0421\u0418\u0422 \u0421\u0410 \u0411\u0414\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\CourseWork\\viewpharmacy\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59BDD2E8-2061-47EB-BC8F-698402E85346}|ViewPharmacy\\ViewPharmacy.csproj|solutionrelative:viewpharmacy\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA397491-C359-4C23-B930-FB3B9194851D}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\\u043F\u0430\u0432\u0435\u043B\\desktop\\\u0438\u0441\u0438\u0442 \u0441\u0430 \u0431\u0434\\\u0431\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\coursework\\businesslogic\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA397491-C359-4C23-B930-FB3B9194851D}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BA397491-C359-4C23-B930-FB3B9194851D}|BusinessLogic\\BusinessLogic.csproj|C:\\Users\\Pavel\\Desktop\\\u0418\u0421\u0418\u0422 \u0421\u0410 \u0411\u0414\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\CourseWork\\businesslogic\\logic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA397491-C359-4C23-B930-FB3B9194851D}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\logic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47465E46-BAA3-4155-BDBC-541AA59BB1DC}|DataAccess\\DataAccess.csproj|c:\\users\\\u043F\u0430\u0432\u0435\u043B\\desktop\\\u0438\u0441\u0438\u0442 \u0441\u0430 \u0431\u0434\\\u0431\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\coursework\\dataaccess\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{47465E46-BAA3-4155-BDBC-541AA59BB1DC}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{59BDD2E8-2061-47EB-BC8F-698402E85346}|ViewPharmacy\\ViewPharmacy.csproj|c:\\users\\pavel\\desktop\\\u0438\u0441\u0438\u0442 \u0441\u0430 \u0431\u0434\\\u0431\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\coursework\\viewpharmacy\\cartstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{59BDD2E8-2061-47EB-BC8F-698402E85346}|ViewPharmacy\\ViewPharmacy.csproj|solutionrelative:viewpharmacy\\cartstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59BDD2E8-2061-47EB-BC8F-698402E85346}|ViewPharmacy\\ViewPharmacy.csproj|C:\\Users\\Pavel\\Desktop\\\u0418\u0421\u0418\u0422 \u0421\u0410 \u0411\u0414\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\CourseWork\\viewpharmacy\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{59BDD2E8-2061-47EB-BC8F-698402E85346}|ViewPharmacy\\ViewPharmacy.csproj|solutionrelative:viewpharmacy\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59BDD2E8-2061-47EB-BC8F-698402E85346}|ViewPharmacy\\ViewPharmacy.csproj|C:\\Users\\Pavel\\Desktop\\\u0418\u0421\u0418\u0422 \u0421\u0410 \u0411\u0414\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\CourseWork\\viewpharmacy\\cartstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59BDD2E8-2061-47EB-BC8F-698402E85346}|ViewPharmacy\\ViewPharmacy.csproj|solutionrelative:viewpharmacy\\cartstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,64 +43,88 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\\u0418\u0421\u0418\u0422 \u0421\u0410 \u0411\u0414\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\CourseWork\\DataAccess\\IRepository.cs",
-              "RelativeDocumentMoniker": "DataAccess\\IRepository.cs",
-              "ToolTip": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\\u0418\u0421\u0418\u0422 \u0421\u0410 \u0411\u0414\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\CourseWork\\DataAccess\\IRepository.cs",
-              "RelativeToolTip": "DataAccess\\IRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Title": "CartStore.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Pavel\\Desktop\\\u0418\u0421\u0418\u0422 \u0421\u0410 \u0411\u0414\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\CourseWork\\ViewPharmacy\\CartStore.cs",
+              "RelativeDocumentMoniker": "ViewPharmacy\\CartStore.cs",
+              "ToolTip": "C:\\Users\\Pavel\\Desktop\\\u0418\u0421\u0418\u0422 \u0421\u0410 \u0411\u0414\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\CourseWork\\ViewPharmacy\\CartStore.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "ViewPharmacy\\CartStore.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T04:59:01.98Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AuthService.cs",
-              "DocumentMoniker": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\\u0418\u0421\u0418\u0422 \u0421\u0410 \u0411\u0414\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\CourseWork\\BusinessLogic\\AuthService.cs",
-              "RelativeDocumentMoniker": "BusinessLogic\\AuthService.cs",
-              "ToolTip": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\\u0418\u0421\u0418\u0422 \u0421\u0410 \u0411\u0414\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\CourseWork\\BusinessLogic\\AuthService.cs",
-              "RelativeToolTip": "BusinessLogic\\AuthService.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T03:31:52.105Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-14T14:02:02.042Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "OrderService.cs",
-              "DocumentMoniker": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\\u0418\u0421\u0418\u0422 \u0421\u0410 \u0411\u0414\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\CourseWork\\BusinessLogic\\OrderService.cs",
-              "RelativeDocumentMoniker": "BusinessLogic\\OrderService.cs",
-              "ToolTip": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\\u0418\u0421\u0418\u0422 \u0421\u0410 \u0411\u0414\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\CourseWork\\BusinessLogic\\OrderService.cs",
-              "RelativeToolTip": "BusinessLogic\\OrderService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Title": "Store.cs",
+              "DocumentMoniker": "C:\\Users\\Pavel\\Desktop\\\u0418\u0421\u0418\u0422 \u0421\u0410 \u0411\u0414\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\CourseWork\\ViewPharmacy\\Store.cs",
+              "RelativeDocumentMoniker": "ViewPharmacy\\Store.cs",
+              "ToolTip": "C:\\Users\\Pavel\\Desktop\\\u0418\u0421\u0418\u0422 \u0421\u0410 \u0411\u0414\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\CourseWork\\ViewPharmacy\\Store.cs",
+              "RelativeToolTip": "ViewPharmacy\\Store.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAMwC8AAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T03:31:48.168Z",
+              "WhenOpened": "2024-11-13T15:52:01.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CartStore.cs",
+              "DocumentMoniker": "C:\\Users\\Pavel\\Desktop\\\u0418\u0421\u0418\u0422 \u0421\u0410 \u0411\u0414\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\CourseWork\\ViewPharmacy\\CartStore.cs",
+              "RelativeDocumentMoniker": "ViewPharmacy\\CartStore.cs",
+              "ToolTip": "C:\\Users\\Pavel\\Desktop\\\u0418\u0421\u0418\u0422 \u0421\u0410 \u0411\u0414\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\CourseWork\\ViewPharmacy\\CartStore.cs",
+              "RelativeToolTip": "ViewPharmacy\\CartStore.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAWwBMAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T06:57:58.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Store.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Pavel\\Desktop\\\u0418\u0421\u0418\u0422 \u0421\u0410 \u0411\u0414\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\CourseWork\\ViewPharmacy\\Store.cs",
+              "RelativeDocumentMoniker": "ViewPharmacy\\Store.cs",
+              "ToolTip": "C:\\Users\\Pavel\\Desktop\\\u0418\u0421\u0418\u0422 \u0421\u0410 \u0411\u0414\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\CourseWork\\ViewPharmacy\\Store.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "ViewPharmacy\\Store.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T06:42:23.885Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OleDbAccess.cs",
+              "DocumentMoniker": "C:\\Users\\Pavel\\Desktop\\\u0418\u0421\u0418\u0422 \u0421\u0410 \u0411\u0414\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\CourseWork\\DataAccess\\OleDbAccess.cs",
+              "RelativeDocumentMoniker": "DataAccess\\OleDbAccess.cs",
+              "ToolTip": "C:\\Users\\Pavel\\Desktop\\\u0418\u0421\u0418\u0422 \u0421\u0410 \u0411\u0414\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\CourseWork\\DataAccess\\OleDbAccess.cs",
+              "RelativeToolTip": "DataAccess\\OleDbAccess.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T05:19:02.523Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "CartService.cs",
-              "DocumentMoniker": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\\u0418\u0421\u0418\u0422 \u0421\u0410 \u0411\u0414\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\CourseWork\\BusinessLogic\\CartService.cs",
+              "DocumentMoniker": "C:\\Users\\Pavel\\Desktop\\\u0418\u0421\u0418\u0422 \u0421\u0410 \u0411\u0414\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\CourseWork\\BusinessLogic\\CartService.cs",
               "RelativeDocumentMoniker": "BusinessLogic\\CartService.cs",
-              "ToolTip": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\\u0418\u0421\u0418\u0422 \u0421\u0410 \u0411\u0414\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\CourseWork\\BusinessLogic\\CartService.cs",
+              "ToolTip": "C:\\Users\\Pavel\\Desktop\\\u0418\u0421\u0418\u0422 \u0421\u0410 \u0411\u0414\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\CourseWork\\BusinessLogic\\CartService.cs",
               "RelativeToolTip": "BusinessLogic\\CartService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAXAAAA",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAWwCYAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-11T03:31:30.555Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Logic.cs",
-              "DocumentMoniker": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\\u0418\u0421\u0418\u0422 \u0421\u0410 \u0411\u0414\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\CourseWork\\BusinessLogic\\Logic.cs",
+              "DocumentMoniker": "C:\\Users\\Pavel\\Desktop\\\u0418\u0421\u0418\u0422 \u0421\u0410 \u0411\u0414\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\CourseWork\\BusinessLogic\\Logic.cs",
               "RelativeDocumentMoniker": "BusinessLogic\\Logic.cs",
-              "ToolTip": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\\u0418\u0421\u0418\u0422 \u0421\u0410 \u0411\u0414\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\CourseWork\\BusinessLogic\\Logic.cs",
+              "ToolTip": "C:\\Users\\Pavel\\Desktop\\\u0418\u0421\u0418\u0422 \u0421\u0410 \u0411\u0414\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\CourseWork\\BusinessLogic\\Logic.cs",
               "RelativeToolTip": "BusinessLogic\\Logic.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA9AAAA",
+              "ViewState": "AQIAACsAAAAAAAAAAIAwwDYAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-11T03:28:07.289Z",
               "EditorCaption": ""

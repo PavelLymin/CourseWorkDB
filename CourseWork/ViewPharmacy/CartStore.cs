@@ -17,7 +17,7 @@ namespace ViewPharmacy
         private void ShowCart()
         {
             listView1.Items.Clear();
-            foreach (var medicine in logic.GetCartOfMedicines())
+            foreach (var medicine in logic.GetAllFromCart())
             {
                 ListViewItem newItems = new ListViewItem(medicine);
                 listView1.Items.Add(newItems);
@@ -26,7 +26,7 @@ namespace ViewPharmacy
 
         private void button1_Click(object sender, System.EventArgs e)
         {
-            if (logic.GetCartOfMedicines().Count != 0)
+            if (logic.GetAllFromCart().Count != 0)
             {
                 Pharmacy pharmacy = new Pharmacy();
                 pharmacy.cartStore = this;

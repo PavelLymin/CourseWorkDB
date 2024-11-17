@@ -7,3 +7,12 @@ C:\Users\Павел\Desktop\ИСИТ СА БД\Базы данных\CourseWork\
 C:\Users\Павел\Desktop\ИСИТ СА БД\Базы данных\CourseWork\DataAccess\bin\Debug\Model.dll
 C:\Users\Павел\Desktop\ИСИТ СА БД\Базы данных\CourseWork\DataAccess\bin\Debug\Model.pdb
 C:\Users\Павел\Desktop\ИСИТ СА БД\Базы данных\CourseWork\DataAccess\obj\Debug\DataAccess.csproj.Up2Date
+C:\Users\Pavel\Desktop\ИСИТ СА БД\Базы данных\CourseWork\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Pavel\Desktop\ИСИТ СА БД\Базы данных\CourseWork\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Pavel\Desktop\ИСИТ СА БД\Базы данных\CourseWork\DataAccess\bin\Debug\Model.dll
+C:\Users\Pavel\Desktop\ИСИТ СА БД\Базы данных\CourseWork\DataAccess\bin\Debug\Model.pdb
+C:\Users\Pavel\Desktop\ИСИТ СА БД\Базы данных\CourseWork\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Pavel\Desktop\ИСИТ СА БД\Базы данных\CourseWork\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\Desktop\ИСИТ СА БД\Базы данных\CourseWork\DataAccess\obj\Debug\DataAccess.csproj.Up2Date
+C:\Users\Pavel\Desktop\ИСИТ СА БД\Базы данных\CourseWork\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Pavel\Desktop\ИСИТ СА БД\Базы данных\CourseWork\DataAccess\obj\Debug\DataAccess.pdb

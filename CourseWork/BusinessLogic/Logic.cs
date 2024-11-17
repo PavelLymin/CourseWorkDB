@@ -24,7 +24,7 @@ namespace BusinessLogic
             if (instance == null)
             {
                 instance = new Logic();
-                _repository = new OleDbAccess("Provider=Microsoft.Jet.OLEDB.4.0;Data Source=CoursePaper.mdb");
+                _repository = new OleDbAccess("Provider=Microsoft.Jet.OLEDB.4.0;Data Source=CoursePaperDB.mdb");
                 _authService = new AuthService(_repository);
                 _cartService = new CartService(_repository);
                 _orderService = new OrderService(_repository);
@@ -54,7 +54,7 @@ namespace BusinessLogic
 
         public void AddItemToCart(int id, int quantity)
         {
-            _cartService.AddItemToCart(id, quantity, lineCollection);
+            _cartService.AddItemToCart(id, quantity);
         }
 
         public void ClearCart()
@@ -72,14 +72,24 @@ namespace BusinessLogic
             _cartService.UpdateQuantityFromCart(index, quantity, lineCollection);
         }
 
-        public List<string[]> GetCartOfMedicines()
+        public List<string[]> GetAllFromCart()
         {
-            return _cartService.GetCartOfMedicines(lineCollection);
+            return _cartService.GetAllFromCart();
         }
 
         public void MakeOrder(string name)
         {
             _orderService.MakeOrder(name, lineCollection, user);
+        }
+
+        public void AddNewTableForCart()
+        {
+            _cartService.AddNewTableForCart();
+        }
+
+        public bool TableExists()
+        {
+            return _repository.TableExists();
         }
     }
 }

@@ -14,22 +14,39 @@ namespace BusinessLogic
             _repository = repository;
         }
 
-        public void AddItemToCart(int id, int quantity, List<CartLine> lineCollection)
-        {
-            CartLine line = lineCollection.Where(g => g.MedicinalProduct.Id == id).FirstOrDefault();
+        //public void AddItemToCart(int id, int quantity, List<CartLine> lineCollection)
+        //{
+        //    CartLine line = lineCollection.Where(g => g.MedicinalProduct.Id == id).FirstOrDefault();
 
-            if (line == null)
+        //    if (line == null)
+        //    {
+        //        lineCollection.Add(new CartLine
+        //        {
+        //            MedicinalProduct = _repository.ReadById(id),
+        //            Quantity = quantity
+        //        });
+        //    }
+        //    else
+        //    {
+        //        line.Quantity += quantity;
+        //        line.MedicinalProduct.Price *= line.Quantity;
+        //    }
+        //}
+
+        public void AddItemToCart(int id, int quantity)
+        {
+            if (!_repository.ReadByIdCart(id))
             {
-                lineCollection.Add(new CartLine
-                {
+                CartLine cartline = new CartLine 
+                { 
                     MedicinalProduct = _repository.ReadById(id),
                     Quantity = quantity
-                });
+                };
+                _repository.AddMedicineToCart(cartline);
             }
             else
             {
-                line.Quantity += quantity;
-                line.MedicinalProduct.Price *= line.Quantity;
+                _repository.UpdateCart(id, quantity);
             }
         }
 
@@ -51,24 +68,34 @@ namespace BusinessLogic
             element.MedicinalProduct.Price *= quantity;
         }
 
-        public List<string[]> GetCartOfMedicines(List<CartLine> lineCollection)
+        //public List<string[]> GetCartOfMedicines(List<CartLine> lineCollection)
+        //{
+        //    List<string[]> strings = new List<string[]>();
+        //    for (int i = 0; i < lineCollection.Count; i++)
+        //    {
+        //        string[] array = new string[]
+        //        {
+        //            lineCollection[i].MedicinalProduct.Id.ToString(),
+        //            lineCollection[i].MedicinalProduct.Category,
+        //            lineCollection[i].MedicinalProduct.Name,
+        //            lineCollection[i].MedicinalProduct.Brand,
+        //            lineCollection[i].MedicinalProduct.Price.ToString(),
+        //            lineCollection[i].MedicinalProduct.Quantity.ToString(),
+        //            lineCollection[i].Quantity.ToString(),
+        //        };
+        //        strings.Add(array);
+        //    }
+        //    return strings;
+        //}
+
+        public List<string[]> GetAllFromCart()
         {
-            List<string[]> strings = new List<string[]>();
-            for (int i = 0; i < lineCollection.Count; i++)
-            {
-                string[] array = new string[]
-                {
-                    lineCollection[i].MedicinalProduct.Id.ToString(),
-                    lineCollection[i].MedicinalProduct.Category,
-                    lineCollection[i].MedicinalProduct.Name,
-                    lineCollection[i].MedicinalProduct.Brand,
-                    lineCollection[i].MedicinalProduct.Price.ToString(),
-                    lineCollection[i].MedicinalProduct.Quantity.ToString(),
-                    lineCollection[i].Quantity.ToString(),
-                };
-                strings.Add(array);
-            }
-            return strings;
+            return _repository.GetAllFromCart();
+        }
+
+        public void AddNewTableForCart()
+        {
+            _repository.AddNewTableForCart();
         }
     }
 }

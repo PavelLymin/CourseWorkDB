@@ -24,5 +24,17 @@ namespace DataAccess
         List<string[]> GetMedicine();
 
         List<string[]> GetPharmacy();
+
+        void AddMedicineToCart(CartLine medicinal);
+
+        void AddNewTableForCart();
+
+        bool ReadByIdCart(int id);
+
+        void UpdateCart(int id, int quantity);
+
+        List<string[]> GetAllFromCart();
+
+        bool TableExists();
     }
 }

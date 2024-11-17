@@ -29,13 +29,13 @@
         private void InitializeComponent()
         {
             this.listView1 = new System.Windows.Forms.ListView();
-            this.columnHeader1 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
-            this.columnHeader2 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
-            this.columnHeader3 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
-            this.columnHeader4 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
-            this.columnHeader5 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
-            this.columnHeader6 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
-            this.columnHeader7 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
+            this.ID = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
+            this.Категория = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
+            this.Название = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
+            this.Бренд = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
+            this.КоличествоБД = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
+            this.Цена = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
+            this.Количество = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.button1 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
             this.button3 = new System.Windows.Forms.Button();
@@ -46,13 +46,13 @@
             // listView1
             // 
             this.listView1.Columns.AddRange(new System.Windows.Forms.ColumnHeader[] {
-            this.columnHeader1,
-            this.columnHeader2,
-            this.columnHeader3,
-            this.columnHeader4,
-            this.columnHeader5,
-            this.columnHeader6,
-            this.columnHeader7});
+            this.ID,
+            this.Категория,
+            this.Название,
+            this.Бренд,
+            this.КоличествоБД,
+            this.Цена,
+            this.Количество});
             this.listView1.FullRowSelect = true;
             this.listView1.GridLines = true;
             this.listView1.HideSelection = false;
@@ -63,44 +63,44 @@
             this.listView1.UseCompatibleStateImageBehavior = false;
             this.listView1.View = System.Windows.Forms.View.Details;
             // 
-            // columnHeader1
+            // ID
             // 
-            this.columnHeader1.Text = "ID";
-            this.columnHeader1.Width = 0;
+            this.ID.Text = "ID";
+            this.ID.Width = 0;
             // 
-            // columnHeader2
+            // Категория
             // 
-            this.columnHeader2.Text = "Категория";
-            this.columnHeader2.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            this.columnHeader2.Width = 150;
+            this.Категория.Text = "Категория";
+            this.Категория.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.Категория.Width = 150;
             // 
-            // columnHeader3
+            // Название
             // 
-            this.columnHeader3.Text = "Название";
-            this.columnHeader3.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            this.columnHeader3.Width = 150;
+            this.Название.Text = "Название";
+            this.Название.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.Название.Width = 150;
             // 
-            // columnHeader4
+            // Бренд
             // 
-            this.columnHeader4.Text = "Бренд";
-            this.columnHeader4.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            this.columnHeader4.Width = 150;
+            this.Бренд.Text = "Бренд";
+            this.Бренд.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.Бренд.Width = 150;
             // 
-            // columnHeader5
+            // КоличествоБД
             // 
-            this.columnHeader5.Text = "Цена";
-            this.columnHeader5.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.КоличествоБД.Text = "КоличествоБД";
+            this.КоличествоБД.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.КоличествоБД.Width = 0;
             // 
-            // columnHeader6
+            // Цена
             // 
-            this.columnHeader6.Text = "Количество";
-            this.columnHeader6.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            this.columnHeader6.Width = 0;
+            this.Цена.Text = "Цена";
+            this.Цена.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
-            // columnHeader7
+            // Количество
             // 
-            this.columnHeader7.Text = "Количество";
-            this.columnHeader7.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.Количество.Text = "Количество";
+            this.Количество.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // button1
             // 
@@ -164,13 +164,13 @@
         #endregion
 
         public System.Windows.Forms.ListView listView1;
-        private System.Windows.Forms.ColumnHeader columnHeader1;
-        private System.Windows.Forms.ColumnHeader columnHeader2;
-        private System.Windows.Forms.ColumnHeader columnHeader3;
-        private System.Windows.Forms.ColumnHeader columnHeader4;
-        private System.Windows.Forms.ColumnHeader columnHeader5;
-        private System.Windows.Forms.ColumnHeader columnHeader6;
-        private System.Windows.Forms.ColumnHeader columnHeader7;
+        private System.Windows.Forms.ColumnHeader ID;
+        private System.Windows.Forms.ColumnHeader Категория;
+        private System.Windows.Forms.ColumnHeader Название;
+        private System.Windows.Forms.ColumnHeader Бренд;
+        private System.Windows.Forms.ColumnHeader КоличествоБД;
+        private System.Windows.Forms.ColumnHeader Цена;
+        private System.Windows.Forms.ColumnHeader Количество;
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.Button button3;

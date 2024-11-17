@@ -26,7 +26,14 @@ namespace ViewPharmacy
 
         private void button1_Click(object sender, System.EventArgs e)
         {
-            CheckQuantity();
+            if (logic.TableExists())
+                CheckQuantity();
+            else
+            {
+                logic.AddNewTableForCart();
+                CheckQuantity();
+            }
+
         }
 
         private void CheckQuantity()
